@@ -1,11 +1,9 @@
 [project]
 name = "colorterm"
 version = "0.0.0"
-repository = "https://github.com/encore-ecosystem/encore"
+repository = "https://github.com/encore-language-index/colorterm"
 encore = ">=0.1.6"
 description = "ANSI color and style output helpers for Encore"
 readme = "README.md"
 licence = "MIT"
-dependencies = [
-    "sys@core",
-]
+dependencies = []
